@@ -1,0 +1,2 @@
+CREATE TABLE abstract(id SERIAL PRIMARY KEY, content VARCHAR);
+
